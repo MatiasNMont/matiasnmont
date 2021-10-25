@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**MatiasNMont/matiasnmont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Matias Montivero. I'm Bachelor in Computer Science and I am a technology lover.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working as DevOps Enginner
+- 💬 Also, I'm working as instructor in MundosE.
+- 🌱 I love to learn new technologies, I think that I could teach it later.
+
+
+I invite you to my personal page. And, if you want to see my projects code, you are welcome!!
+
+
+
+
