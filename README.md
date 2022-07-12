@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Matias Montivero. I'm Bachelor in Computer Science and I am a technology lover.
+
 
 
 
