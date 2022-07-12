@@ -10,9 +10,7 @@
 - 🌱 I love to learn new technologies, I think that I could teach it later.
 
 
-I invite you to my personal page. And, if you want to see my projects code, you are welcome!!
 
-https://matiasnmont.github.io/
 
 
 
